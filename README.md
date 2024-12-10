@@ -54,7 +54,7 @@ The system provides the following outputs:
 
 ### How to Use
 1. Download the zip file, make sure heart.csv includes.
-2. Run the last python file, Diagnosis.py.
+2. Run the last python file, Final.py.
 3. Choose an option : 1. Input new data and get predictions; 2. View user health history; 3. Visualize health trends; 4. View diagnosis history.
 
 Option 1: Input new health data and receive a prediction. Follow prompts to input data and save results.
