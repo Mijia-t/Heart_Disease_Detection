@@ -65,3 +65,8 @@ Option 3: Input the name. Generate and view health trend visualizations based on
 
 Option 4: Input the name. View detailed diagnosis history, including abnormal values and risk levels.
 
+If the information is for a new user, enter the data first (option1) before health history (option2), health trends (option3), and diagnosis history (option4). It is not recommended to enter data once to view health trends as there is no comparison.
+
+If the user already has the relevant files, health history, health trends and diagnosis history, the functions can be called up directly.
+If entering new data again, it is recommended to delete the previous health_trends.png and then use health trends(option3).
+
